@@ -1,3 +1,6 @@
+# Fork Info 
+This fork was created by NAT2K15 to support his FiveM scripts. I am not the orginal creator of this NPM all credits goes to the discord.js community.
+
 <div align="center">
   <br />
   <p>
